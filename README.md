@@ -3,7 +3,7 @@ Data Science bootcamp 'Test'
 
 learn 10 sprints 
 
--spreadsheets 
+- spreadsheets 
 - SQL database
 - R programming 
 - Data Transformation
